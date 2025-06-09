@@ -74,7 +74,7 @@ chatbot = ChatBot(
 # Carregando dados de treinamento personalizados
 conversas_personalizadas = []
 try:
-    with open("C:/Users/franc/OneDrive/Documentos/ChatBot/conversas.txt", encoding="utf-8") as f:
+    with open("C:/Users/franc/OneDrive/Documentos/Papinho/ChatBot/conversas.txt", encoding="utf-8") as f:
         for linha in f:
             partes = linha.strip().split("|", 1)
             if len(partes) == 2:
