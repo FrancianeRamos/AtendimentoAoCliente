@@ -1,0 +1,199 @@
+Qual foi o ano da Proclamação da República no Brasil?|1889.
+
+Quem foi o primeiro imperador romano?|Augusto (Otaviano).
+
+Em que ano ocorreu a queda do Muro de Berlim?|1989.
+
+Qual civilização construiu as pirâmides de Gizé?|Civilização egípcia antiga.
+
+Quem liderou a independência dos Estados Unidos?|George Washington foi general do Exército Continental; Thomas Jefferson redigiu a declaração.
+
+Qual guerra mundial terminou em 1945?|Segunda Guerra Mundial.
+
+Quem foi a primeira mulher a receber o Prêmio Nobel?|Marie Curie (Nobel de Física, 1903).
+
+Qual foi o nome do tratado que encerrou a Primeira Guerra Mundial?|Tratado de Versalhes.
+
+Em que ano ocorreu a Revolução Francesa?|1789.
+
+Quem foi o líder da Revolução Cubana?|Fidel Castro.
+
+Qual é o maior país do mundo em área territorial?|Rússia.
+
+Qual é o rio mais extenso da América do Sul?|Rio Amazonas.
+
+Qual é a capital da Austrália?|Camberra.
+
+Qual montanha é considerada a mais alta do mundo?|Monte Everest (8.848 m).
+
+Em qual continente fica o Deserto do Saara?|África.
+
+Qual é o oceano mais profundo do planeta?|Oceano Pacífico (Fossa das Marianas).
+
+Qual é a capital do Japão?|Tóquio.
+
+Qual país é conhecido como “Terra do Sol Nascente”?|Japão.
+
+Qual cidade italiana é famosa por seus canais e gôndolas?|Veneza.
+
+Qual país tem a maior população do mundo (em 2025)?|China.
+
+Qual é a fórmula molecular da água?|H₂O.
+
+O que é fotossíntese?|Processo pelo qual plantas convertem luz solar em energia, produzindo glicose e oxigênio.
+
+Qual gás é essencial para a respiração dos seres humanos?|Oxigênio (O₂).
+
+O que é uma célula eucariótica?|Célula com núcleo definido e organelas delimitadas por membranas.
+
+Qual é a unidade de medida de massa no Sistema Internacional?|Quilograma (kg).
+
+Qual partícula subatômica possui carga positiva?|Próton.
+
+O que regula o clima terrestre a longo prazo?|Variações nos níveis de gases do efeito estufa, posição orbital e atividade solar.
+
+Qual elemento químico tem o símbolo “Au”?|Ouro.
+
+O que é teoria da relatividade?|Conjunto de teorias de Einstein que relacionam espaço, tempo e gravidade (relatividade restrita e geral).
+
+Qual é a velocidade aproximada da luz no vácuo?|299.792 km/s.
+
+Quanto é 7 × 8?|56.
+
+Qual é a fórmula da área de um círculo?|π × raio².
+
+O que representa o número pi (π)?|Razão entre a circunferência de um círculo e seu diâmetro (≈ 3,1416).
+
+Qual o resultado de 12! (fatorial de 12)?|479.001.600.
+
+O que é um número primo?|Número maior que 1 divisível apenas por 1 e por ele mesmo.
+
+Qual a solução da equação 2x + 5 = 13?|x = 4.
+
+Qual a fórmula do Teorema de Pitágoras?|a² + b² = c².
+
+O que é uma progressão aritmética?|Sequência em que cada termo difere do anterior por uma constante (razão).
+
+Qual o valor exato de cos(0°)?|1.
+
+O que representa o número e (base dos logaritmos naturais)?|≈ 2,71828.
+
+Quem escreveu “Dom Casmurro”?|Machado de Assis.
+
+Qual é a obra mais famosa de Shakespeare?|“Hamlet” (ou “Romeu e Julieta”, dependendo da interpretação).
+
+Quem é considerado o pai da poesia moderna em língua portuguesa?|Fernando Pessoa.
+
+O que é um romance picaresco?|Narrativa que conta aventuras de um protagonista marginal em tom satírico, comum na literatura do século XVI.
+
+Qual autor brasileiro escreveu “Vidas Secas”?|Graciliano Ramos.
+
+Quem traduziu a Bíblia para o português no século XVI?|João Ferreira de Almeida (tradução protestante do século XVII, mas sem versão completa no XVI; a primeira parcial no XVI foi de Luís de Granada).
+
+O que caracteriza o Romanticismo literário?|Valorização do subjetivismo, da natureza, do nacionalismo e do idealismo no século XIX.
+
+Qual poeta escreveu “Os Lusíadas”?|Luís de Camões.
+
+Quem é o autor de “Cem Anos de Solidão”?|Gabriel García Márquez.
+
+O que é um haicai?|Poema breve de origem japonesa, com três versos de 5, 7 e 5 sílabas.
+
+Qual artista pintou “Guernica”?|Pablo Picasso.
+
+Quem compôs a pintura “Noite Estrelada”?|Vincent van Gogh.
+
+Qual movimento artístico valorizou o abstracionismo no início do século XX?|Cubismo, liderado por Picasso e Braque, e posteriormente o abstracionismo de Kandinsky.
+
+O que define o Barroco na arte?|Estilo do século XVII caracterizado por dramaticidade, contraste de luz e sombra e ornamentação rica.
+
+Quem esculpiu “David” (estátua)?|Michelangelo.
+
+Qual artista pintou o teto da Capela Sistina?|Michelangelo Buonarroti.
+
+O que caracteriza o Impressionismo?|Pintura do final do século XIX que valoriza a luz, a cor e a impressão visual rápida; Monet e Renoir são expoentes.
+
+Quem é conhecido como o “pai” do Impressionismo musical?|Claude Debussy (no final do século XIX e início do XX).
+
+Qual movimento artístico surgiu em Paris em 1905 e valorizou cores vibrantes e formas sintéticas?|Fauvismo.
+
+Quem pintou “A Persistência da Memória”?|Salvador Dalí (Surrealismo).
+
+Quantos jogadores participam de cada time no futebol?|11 jogadores em campo.
+
+Qual país sediou a Copa do Mundo de 2018?|Rússia.
+
+Quem detém o recorde de mais gols em Copas do Mundo?|Miroslav Klose, com 16 gols.
+
+Quantos sets são disputados em uma partida de tênis masculina de Grand Slam?|Melhor de cinco sets.
+
+Qual é o evento esportivo mais importante de atletismo, realizado a cada quatro anos?|Jogos Olímpicos.
+
+Quantas medalhas de ouro Usain Bolt conquistou em Jogos Olímpicos?|Oito medalhas de ouro (até 2016).
+
+Qual esporte consiste em derrubar dez pinos com uma bola?|Boliche (ou “bowling”).
+
+Quem é considerado o “Rei do Futebol”?|Pelé.
+
+Qual país venceu a NBA Finals em 2024?|Denver Nuggets (temporada 2023-2024).
+
+Em qual esporte Nadia Comăneci se destacou ao conquistar nota 10 olímpica?|Ginástica artística.
+
+Quem dirigiu o filme “Titanic” (1997)?|James Cameron.
+
+Qual foi o primeiro filme a arrecadar mais de 1 bilhão de dólares mundialmente?|“Titanic” (1997).
+
+Quem interpretou o personagem Harry Potter nos filmes?|Daniel Radcliffe.
+
+Qual diretor é famoso por filmes de suspense como “Psicose” e “Janela Indiscreta”?|Alfred Hitchcock.
+
+Em que ano foi lançado “O Senhor dos Anéis: A Sociedade do Anel”?|2001.
+
+Quem interpretou Vito Corleone em “O Poderoso Chefão” (1972)?|Marlon Brando.
+
+Qual animação da Disney foi o primeiro longa-metragem?|“Branca de Neve e os Sete Anões” (1937).
+
+Qual filme recebeu o Oscar de Melhor Filme em 2024?|“Everything Everywhere All at Once” (2022) recebeu Oscar de Melhor Filme em 2023. Em 2024, “Oppenheimer” recebeu vários Oscars, mas o de Melhor Filme foi para “Tudo em Todo Lugar ao Mesmo Tempo” no ciclo de retrospectiva. (Nota: O Oscar de 2024 premiou filmes de 2023; Melhor Filme foi “Tudo em Todo Lugar ao Mesmo Tempo”, cerimônia em março de 2024.)
+
+Quem dirigiu “Pulp Fiction” (1994)?|Quentin Tarantino.
+
+Qual filme marcou a estreia de James Cameron como diretor?|“Piranha II: The Spawning” (1982) foi seu primeiro trabalho de destaque, mas “Aliens, o Resgate” (1986) lhe deu projeção.
+
+Quem compôs a Sinfonia nº 5 em Dó Menor (“Destino batendo à porta”)?|Ludwig van Beethoven.
+
+Qual banda britânica lançou o álbum “Abbey Road”?|The Beatles.
+
+Quem é considerado o “Rei do Rock”?|Elvis Presley.
+
+Qual compositor é autor da ópera “A Flauta Mágica”?|Wolfgang Amadeus Mozart.
+
+Qual música de Whitney Houston foi tema do filme “O Guarda-Costas”?|“I Will Always Love You”.
+
+Qual é o estilo musical originário da Jamaica e precursor do reggae?|Ska.
+
+Quem é o vocalista da banda de rock U2?|Bono Vox.
+
+Qual cantora pop lançou o álbum “1989”?|Taylor Swift.
+
+Quem compôs a música “Clair de Lune”?|Claude Debussy.
+
+Qual rapsta homenageou Tupac e Biggie em 2020 com álbum chamando-se “King’s Disease”?|Nas.
+
+O que significa “HTTP” na internet?|HyperText Transfer Protocol.
+
+Qual empresa lançou o primeiro smartphone com Android?|HTC, com o HTC Dream (conhecido como T-Mobile G1) em 2008.
+
+O que é “inteligência artificial”?|Área da computação que desenvolve sistemas capazes de realizar tarefas que exigem inteligência humana, como aprendizado e tomada de decisão.
+
+Qual rede social foi fundada por Mark Zuckerberg em 2004?|Facebook.
+
+O que é realidade virtual?|Tecnologia que cria ambientes digitais imersivos por meio de dispositivos como óculos VR.
+
+Qual linguagem de programação foi criada por Guido van Rossum em 1991?|Python.
+
+O que é um algoritmo de ordenação do tipo “dividir para conquistar”?|Quick Sort ou Merge Sort, que dividem o problema em subproblemas menores.
+
+O que representa “CPU” em computação?|Unidade Central de Processamento (Central Processing Unit).
+
+Qual tecnologia permite executar múltiplos contêineres isolados em um servidor?|Docker (containerização).
+
+O que é blockchain?|Estrutura de dados distribuída e descentralizada que registra transações em blocos encadeados criptograficamente.
