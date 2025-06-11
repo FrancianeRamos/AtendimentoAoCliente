@@ -69,6 +69,16 @@ chatbot = ChatBot(
 #Em qual continente fica o Deserto do Saara?|África.
 #Qual é o oceano mais profundo do planeta?|Oceano Pacífico (Fossa das Marianas).
 #Qual é a capital do Japão?|Tóquio.
+#Qual artista pintou “Guernica”?|Pablo Picasso.
+#Quem compôs a pintura “Noite Estrelada”?|Vincent van Gogh.
+#Qual movimento artístico valorizou o abstracionismo no início do século XX?|Cubismo, liderado por Picasso e Braque, e posteriormente o abstracionismo de Kandinsky.
+#O que define o Barroco na arte?|Estilo do século XVII caracterizado por dramaticidade, contraste de luz e sombra e ornamentação rica.
+#Quem esculpiu “David” (estátua)?|Michelangelo.
+#Qual artista pintou o teto da Capela Sistina?|Michelangelo Buonarroti.
+#O que caracteriza o Impressionismo?|Pintura do final do século XIX que valoriza a luz, a cor e a impressão visual rápida; Monet e Renoir são expoentes.
+#Quem é conhecido como o “pai” do Impressionismo musical?|Claude Debussy (no final do século XIX e início do XX).
+#Qual movimento artístico surgiu em Paris em 1905 e valorizou cores vibrantes e formas sintéticas?|Fauvismo.
+#Quem pintou “A Persistência da Memória”?|Salvador Dalí (Surrealismo).
 
 
 # Carregando dados de treinamento personalizados
