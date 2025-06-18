@@ -49,7 +49,9 @@ conversas_personalizadas = [
     ["Como posso rastrear meu pedido?", "Você pode rastrear seu pedido através do link enviado por e-mail após a confirmação da compra."],
     ["Vocês têm garantia nos produtos?", "Sim, todos os nossos produtos têm garantia de 90 dias contra defeitos de fabricação."],
     ["Vocês aceitam devoluções?", "Sim, aceitamos devoluções em até 7 dias após o recebimento do produto, desde que esteja na embalagem original e sem uso."]
-
+    ["Quais são os horários de atendimento?", "Nosso horário de atendimento é de segunda a sexta-feira, das 9h às 18h."],
+    ["Vocês têm programa de fidelidade?", "Sim, temos um programa de fidelidade onde você acumula pontos a cada compra e pode trocar por descontos ou produtos."],
+    ["Como posso entrar em contato com o suporte?", "Você pode entrar em contato conosco pelo e-mail"]
 ]
 
 # Treinando o chatbot com as conversas personalizadas
