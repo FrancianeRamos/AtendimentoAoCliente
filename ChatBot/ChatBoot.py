@@ -1,39 +1,52 @@
-import random
-import requests
-from chatterbot import ChatBot
-from chatterbot.trainers import ChatterBotCorpusTrainer, ListTrainer
+# Importando as bibliotecas necessárias
+import random   # Biblioteca padrão do Python para gerar escolhas aleatórias, usada para respostas alternativas
+import requests # Biblioteca para fazer requisições HTTP, usada para buscar informações externas na internet
+# Importando as classes principais do ChatterBot
+from chatterbot import ChatBot  # Classe principal para criar o chatbot
+from chatterbot.trainers import ChatterBotCorpusTrainer, ListTrainer  # Treinadores para ensinar o bot com corpus e listas personalizadas
 
-# Função para buscar informações sobre sapatos em APIs externas (se necessário)
+# Função para buscar informações externas usando a API do DuckDuckGo
+# Caso o chatbot não saiba responder, ele tenta buscar uma resposta na internet
 def buscar_info_duckduckgo(pergunta):
+    # URL da API pública do DuckDuckGo Instant Answer
     url = "https://api.duckduckgo.com/"
+    # Parâmetros da requisição para obter resposta em JSON, sem HTML e sem ambiguidades
     params = {
-        "q": pergunta,
-        "format": "json",
-        "no_html": 1,
-        "skip_disambig": 1
+        "q": pergunta,           # Pergunta feita pelo usuário
+        "format": "json",        # Formato da resposta
+        "no_html": 1,            # Remove tags HTML da resposta
+        "skip_disambig": 1       # Ignora respostas ambíguas
     }
+    # Fazendo a requisição GET para a API
     resposta = requests.get(url, params=params)
+    # Verifica se a requisição foi bem-sucedida (código 200)
     if resposta.status_code == 200:
         try:
+            # Tenta converter a resposta para JSON
             dados = resposta.json()
+            # Busca o texto principal da resposta (campo "AbstractText")
             texto = dados.get("AbstractText")
             if texto:
+                # Retorna o texto encontrado, se houver
                 return texto
         except Exception:
+            # Em caso de erro na conversão ou acesso ao JSON, retorna None
             return None
+    # Se a requisição não foi bem-sucedida ou não encontrou resposta, retorna None
     return None
 
-# Criando um chatbot específico para atendimento ao cliente de uma loja de sapatos
+# Criando uma instância do chatbot para atendimento ao cliente de uma loja de sapatos
+# Configura o armazenamento, banco de dados e adaptadores de lógica
 chatbot = ChatBot(
     "Atendimento_Sapatos",
-    storage_adapter="chatterbot.storage.SQLStorageAdapter",
-    database_uri="sqlite:///database.sqlite3",
+    storage_adapter="chatterbot.storage.SQLStorageAdapter",  # Define o tipo de armazenamento
+    database_uri="sqlite:///database.sqlite3",               # Caminho do banco de dados SQLite
     logic_adapters=[
-        "chatterbot.logic.BestMatch",
-        "chatterbot.logic.MathematicalEvaluation",
-        "chatterbot.logic.TimeLogicAdapter"
+        "chatterbot.logic.BestMatch",                       # Melhor correspondência de resposta
+        "chatterbot.logic.MathematicalEvaluation",          # Avaliação matemática
+        "chatterbot.logic.TimeLogicAdapter"                 # Respostas relacionadas a horário
     ],
-    read_only=False
+    read_only=False                                         # Permite que o bot aprenda durante a execução
 )
 
 # Lista de perguntas e respostas personalizadas para o negócio de sapatos
